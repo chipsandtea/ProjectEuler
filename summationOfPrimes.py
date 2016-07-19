@@ -1,7 +1,7 @@
 # Christopher Hsiao - 7/19/2016
-# Problem:The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
+# Problem 10:The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
 # Find the sum of all the primes below two million.
-# Reusing code from my 10001prime.py 
+# NOTE: Reusing code from my 10001prime.py 
 
 n = 2
 sum = 0
